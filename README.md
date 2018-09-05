@@ -1,5 +1,5 @@
 ### Overview
-This repository provides a series codes of dqn algorithms
+This repository provides a series of codes of dqn algorithms
 
 To be continued ...
 
